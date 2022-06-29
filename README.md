@@ -3,9 +3,6 @@
 <!--
 **MiyukiMizore/MiyukiMizore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![chocapic](https://user-images.githubusercontent.com/100625067/176419355-6e2954da-db08-441e-98f7-8786d9b2e440.gif)
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->![chocapic](https://user-images.githubusercontent.com/100625067/176419432-2049a087-2dd3-477b-8550-16096d91b388.gif)
+
