@@ -3,7 +3,7 @@
 <!--
 **MiyukiMizore/MiyukiMizore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![giphy](![giphy (1)](![giphy (2)](https://user-images.githubusercontent.com/100625067/176418953-e9c61d60-6d92-4f92-9607-d0da900816a9.gif)
+![giphy](![giphy (1)](![giphy (2)](https://user-images.githubusercontent.com/100625067/176418953-e9c61d60-6d92-4f92-9607-d0da900816a9.gif))
 
 
 Here are some ideas to get you started:
