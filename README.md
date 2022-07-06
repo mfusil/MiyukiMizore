@@ -1,6 +1,8 @@
 ### Hello, I'm a french student of 42 Mulhouse
 I publish on Github projects that I have finished
 
+I learn actually C and Shell
+
 <!--
 **MiyukiMizore/MiyukiMizore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
